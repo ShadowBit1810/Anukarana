@@ -103,6 +103,7 @@ python ZERO/Main/Sim.py
 | Input | Action |
 |---|---|
 | Right mouse + drag | Orbit camera |
+| LMB + Ctrl | For precise control on slider |
 | Time Scale slider | 0x pause → 5x fast forward |
 | Pause / Resume button | Toggle freeze |
 | Single mode | Select particle by index, set position / velocity / mass live |
